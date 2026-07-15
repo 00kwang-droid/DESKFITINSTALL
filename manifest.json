@@ -1,13 +1,16 @@
 {
   "name": "데스크핏 · 자리운동일지",
   "short_name": "데스크핏",
-  "description": "자리에 앉은 채로, 티 안 나게 하는 직장인 운동 · 식단 루틴",
+  "description": "자리에 앉은 채로, 티 안 나게 하는 직장인 운동 · 식단 루틴. 4개 언어와 6가지 테마를 지원합니다.",
+  "lang": "ko",
+  "dir": "ltr",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0E0E10",
   "theme_color": "#0E0E10",
   "orientation": "portrait",
+  "categories": ["health", "fitness", "lifestyle", "productivity"],
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
